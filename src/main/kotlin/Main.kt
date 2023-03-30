@@ -51,7 +51,7 @@ open class Person(var name:String, var age:Int,var height:Int,var weight:Double)
 //create 2 more people objects and add them to the list at one go.
 class newPerson(name:String, age:Int,height:Int,weight:Double,gender:String,tribe:String):Person(name,age,height,weight)
 
-fun attributes(attribute:listOf){
+fun attributes(attribute:){
 
 }
 
